@@ -43,7 +43,6 @@ module.exports = (() => {
 				{re: /нихуя себе/gmi, file: "НИХУЯ СЕБЕ.mp3", duration: 200},
 				{re: /да ебись ты/gmi, file: "Да ебись ты.mp3", duration: 500},
 				{re: /звучит заманчиво/gmi, file: "ЗВУЧИТ ЗАМАНЧИВО.mp3", duration: 200},
-				{re: /I need more power/gmi, file: "I need more POWER.mp3", duration: 100},
 				{re: /cum/gmi, file: "Vergil (1).mp3", duration: 100}
 			];
 
