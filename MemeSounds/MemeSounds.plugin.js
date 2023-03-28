@@ -48,7 +48,17 @@ module.exports = (() => {
 				{re: /uu?gh/gmi, file: "vergil-uuuuuughhhh-dt.mp3", duration: 100},
 				{re: /bury the light/gmi, file: "Bury the Light.mp3", duration: 100},
 				{re: /poya/gmi, file: "kirby-poyo.mp3", duration: 100},
-				{re: /чай завари/gmi, file: "ЗАВАРКА ЧАЙ ЗАВАРИ.mp3", duration: 100}
+				{re: /чай завари/gmi, file: "ЗАВАРКА ЧАЙ ЗАВАРИ.mp3", duration: 100},
+				{re: /sans/gmi, file: "tmps7bbn_ue.mp3", duration: 100},
+				{re: /санс/gmi, file: "tmps7bbn_ue.mp3", duration: 100},
+				{re: /power of sparda/gmi, file: "power-of-sparda.mp3", duration: 100},
+				{re: /he?he/gmi, file: "just-sans-talking.mp3", duration: 100},
+				{re: /хе?хе/gmi, file: "just-sans-talking.mp3", duration: 100},
+				{re: /fortnite/gmi, file: "tmptvwdd2qa.mp3", duration: 100},
+				{re: /remember son/gmi, file: "REMEMBER SON.mp3", duration: 100},
+				{re: /oh yes/gmi, file: "mus_ohyes.ogg", duration: 100},
+				{re: /za warudo/gmi, file: "hd-stardust-crusaders-za-warudo_1.mp3", duration: 100},
+				{re: /wry?y/gmi, file: "dio-wryyy.mp3", duration: 100}
 			];
 
 			/* Double message event fix */
