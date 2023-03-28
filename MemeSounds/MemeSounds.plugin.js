@@ -56,7 +56,7 @@ module.exports = (() => {
 				{re: /хе?хе/gmi, file: "just-sans-talking.mp3", duration: 100},
 				{re: /fortnite/gmi, file: "tmptvwdd2qa.mp3", duration: 100},
 				{re: /remember son/gmi, file: "REMEMBER SON.mp3", duration: 100},
-				{re: /oh yes/gmi, file: "mus_ohyes.ogg", duration: 100},
+				{re: /oh yes/gmi, file: "mus_ohyes.mp3", duration: 100},
 				{re: /za warudo/gmi, file: "hd-stardust-crusaders-za-warudo_1.mp3", duration: 100},
 				{re: /wry?y/gmi, file: "dio-wryyy.mp3", duration: 100}
 			];
